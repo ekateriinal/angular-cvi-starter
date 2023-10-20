@@ -1,0 +1,7 @@
+{
+  "title": "My Template",
+  "description": "This is my template",
+  "iconUrl": "https://example.com/icon.png",
+  "tags": ["react", "typescript"],
+  "published": true
+}
