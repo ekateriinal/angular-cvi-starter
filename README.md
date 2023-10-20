@@ -1,9 +1,5 @@
 ---
 
-# CVI Library Starter App Playground
-
-This CodeSandbox playground serves as a starter app for integrating and experimenting with the CVI library in an Angular application.
-
 ## Getting Started
 
 1. Click on the "Fork" button in the top right corner to create your own copy of this playground.
