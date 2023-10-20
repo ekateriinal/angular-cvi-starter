@@ -1,0 +1,16 @@
+<div class="content-wrapper">
+  <cvi-ng-track flexDirection="vertical" [gap]="4" [horizontalAlignment]="'center'">
+    <h1>Use this playground to try CVI library</h1>
+    <cvi-ng-button size="m" appearance="primary" (clickEvent)="showMessage = !showMessage">
+      <div class="btn-content-wrapper">
+        Start!
+        <div class="icon-wrapper">
+      <cvi-ng-icon [name]="'happy_face'" [height]="24"></cvi-ng-icon>
+    </div>
+    </div>
+    </cvi-ng-button>
+  </cvi-ng-track>
+</div>
+<div class="content-wrapper" *ngIf="showMessage">
+  <span>Experiment with components and styles directly here or create new component</span>
+</div>

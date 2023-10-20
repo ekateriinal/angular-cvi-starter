@@ -1,0 +1,26 @@
+:host {
+  background-color: var(--cvi-color-sapphire-blue-5);
+  display: flex;
+  flex-direction: column;
+  gap: var(--cvi-spacing-rapla);
+  flex-grow: 1;
+  padding: var(--cvi-spacing-elva);
+}
+.content-wrapper {
+  background-color: var(--cvi-color-black-coral-0);
+  padding: var(--cvi-spacing-elva);
+  border-radius: 4px;
+}
+.btn-content-wrapper {
+  display: flex;
+  gap: var(--cvi-spacing-loksa);
+  align-items: center;
+  justify-content: center;
+}
+.icon-wrapper {
+  fill: var(--cvi-color-black-coral-0);
+}
+.code {
+  background-color: var(--cvi-color-sapphire-blue-0);
+  border-radius: 2px;
+}
