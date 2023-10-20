@@ -1,7 +1,7 @@
 {
-  "title": "My Template",
-  "description": "This is my template",
-  "iconUrl": "https://example.com/icon.png",
-  "tags": ["react", "typescript"],
+  "title": "Angular cvi starter",
+  "description": "Use this playground to try CVI library",
+  "iconUrl": "https://e-gov.github.io/cvi/static/media/logo.8d8964f4.svg",
+  "tags": ["angular", "e-gov", "veera"],
   "published": true
 }
